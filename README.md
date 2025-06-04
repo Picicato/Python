@@ -20,6 +20,6 @@ Voici comment le repo est organisé :
 ## 🔧 Installation
 Si tu veux tester un script :
 ```bash
-git clone https://github.com/ton-repo.git
-cd ton-repo
+git clone https://github.com/Picicato/Python-Playground.git
+cd Python-Playground
 python script.py
