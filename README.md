@@ -12,7 +12,6 @@ Ce repo regroupe divers morceaux de code et exercices en Python, notamment issus
 
 ## 🏗️ Structure
 Voici comment le repo est organisé :
-- `freecodecamp/` → Exercices issus de FreeCodeCamp
 - `projects/` → Petits projets et expérimentations
 - `algorithms/` → Implémentations d’algorithmes
 - `scripts/` → Scripts utiles et automatisations
