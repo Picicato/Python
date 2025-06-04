@@ -3,7 +3,7 @@
 Bienvenue dans mon dépôt d'expérimentations Python !
 
 ## 📌 À propos
-Ce repo regroupe divers morceaux de code et exercices en Python, notamment issus de [FreeCodeCamp](https://www.freecodecamp.org/) mais aussi d'autres ressources et explorations personnelles.
+Ce repo regroupe divers morceaux de code et exercices en Python.
 
 ## 🚀 Objectif
 - Pratiquer et améliorer mes compétences en Python
